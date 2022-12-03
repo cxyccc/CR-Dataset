@@ -24,6 +24,8 @@ The reports from three sources are recognized as the bases of facts:
 - [Hong Kong Police Force](https://www.police.gov.hk)
 - [*Top 10 Rumors of Mobs in Hong Kong in 2019*](https://m.mp.oeeee.com/a/BAAFRD000020200112249042.html) from *Southern Metropolis Daily*
 
+Data annotation is strictly in accordance with reports from the above three sources, and does not involve personal political positions. This dataset is used for academic research only.
+
 ## Citation
 
 If you find this dataset useful, please cite our paper.
