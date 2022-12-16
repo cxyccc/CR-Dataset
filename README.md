@@ -5,7 +5,7 @@ We develop a web crawler to collect Cantonese tweets from Twitter and finish the
 
 ## Collection
 
-CR-Dataset.csv: This file provides the source tweets and labels in a format like: 'text, label'.
+CR-Dataset-example.csv: This file provides the source tweets and labels in a format like: 'text, label'.
 
 Example:
 
